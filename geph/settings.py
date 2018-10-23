@@ -25,7 +25,7 @@ SECRET_KEY = 'tde1v=v!dx^$m#8*fy7jrmn%$j=!rs6%#@tre-+n9k@x+5)zm*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dev.pootify.com','208.97.133.44']
 
 
 # Application definition
