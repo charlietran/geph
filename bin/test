@@ -1,0 +1,1 @@
+docker-compose exec web python tests/functional_tests.py
